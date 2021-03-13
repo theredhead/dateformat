@@ -11,11 +11,12 @@
 
 ## Purpose
 
-We all know that javascripts date class sucks proverbial donkey ass. I can't reasonably do anything about that but I can provide a lightweighthelper class and function to aid in formatting dates.
+Make working with the built-in `Date` class a little bit more tolerable.
 
 ## Features
 
-- provides a `dateFormat(date: Date, formatString: string): string` function that takes a format just like PHP's `date_format` function.
+- Source code freely available: https://github.com/theredhead/dateformat#features
+- Provides a `dateFormat(date: Date, formatString: string): string` function that takes a format just like PHP's `date_format` function.
 - Format string placeholders:
 
 _This is **almost** straight from the [php documentation](https://www.php.net/manual/en/datetime.format.php)_

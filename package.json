@@ -1,7 +1,7 @@
 {
   "name": "@theredhead/dateformat",
   "version": "0.0.2",
-  "description": "",
+  "description": "Date formatting like the PHP kids",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -p .",
