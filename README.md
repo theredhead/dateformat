@@ -15,7 +15,7 @@ Make working with the built-in `Date` class a little bit more tolerable.
 
 ## Features
 
-- Source code freely available: https://github.com/theredhead/dateformat#features
+- Source code freely available: <https://github.com/theredhead/dateformat>
 - Provides a `dateFormat(date: Date, formatString: string): string` function that takes a format just like PHP's `date_format` function.
 - Format string placeholders:
 
